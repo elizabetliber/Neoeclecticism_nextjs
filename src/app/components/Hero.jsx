@@ -1,7 +1,6 @@
 "use client";
 import React from 'react';
 import {TypeAnimation} from 'react-type-animation';
-import Link from "next/link";
 
 function Hero() {
     return (
@@ -35,7 +34,6 @@ function Hero() {
                     people, companies, and events influencing the emerging decentralized
                     crypto
                     space.
-                    <Link href="/description" className="text-white">description</Link>
                 </p>
             </div>
         </div>
