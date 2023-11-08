@@ -1,10 +1,7 @@
 "use client";
 import React from 'react';
 import {TypeAnimation} from 'react-type-animation';
-<<<<<<< HEAD
 import Link from "next/link";
-=======
->>>>>>> origin/main
 
 function Hero() {
     return (
@@ -38,10 +35,7 @@ function Hero() {
                     people, companies, and events influencing the emerging decentralized
                     crypto
                     space.
-<<<<<<< HEAD
                     <Link href="/description" className="text-white">description</Link>
-=======
->>>>>>> origin/main
                 </p>
             </div>
         </div>
