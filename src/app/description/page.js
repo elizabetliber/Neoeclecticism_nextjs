@@ -4,7 +4,7 @@ import Author from "@/app/components/Author"
 import Discover from "@/app/components/Discover";
 import Optimism from "@/app/components/Optimism";
 import Printing from "@/app/components/Printing";
-import Question from "@/app/components/Question";
+
 
 function Page() {
     return (

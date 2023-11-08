@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from "next/link";
 import Image from "next/image";
 
 function Discover() {
@@ -30,6 +29,7 @@ function Discover() {
             <div className="w-full flex flex-col items-center mt-20">
                 <Image
                     src="/images/buterin.png"
+                    alt="/images/buterin.png"
                     width={848}
                     height={480}
                 />

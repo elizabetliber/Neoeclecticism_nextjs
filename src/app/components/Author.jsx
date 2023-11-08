@@ -18,14 +18,14 @@ function Author() {
                     width={195}
                     height={179}
                     src="/images/Vector_2.png"
-                    className=""
+                    alt="/images/Vector_2.png"
                 />
                 <Link href="" className="flex justify-center items-center text-[#19CD99] text-xl font-['Roboto_Mono'] mt-4">
                     <Image
                         width={48}
                         height={32}
                         src="/images/twitter-icon-green-button.svg"
-                        className=""
+                        alt="/images/twitter-icon-green-button.svg"
                     />
                     @Nizovtsev
                 </Link>

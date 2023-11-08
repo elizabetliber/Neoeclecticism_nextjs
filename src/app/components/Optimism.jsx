@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from "next/image";
 
-function Optimism(props) {
+function Optimism() {
     return (
         <div className="flex flex-row mt-20">
             <div className="flex flex-col flex-[0_1_33.2%] border-y-2 border-l-2 border-[#232A23] px-24 py-36">
@@ -9,6 +9,7 @@ function Optimism(props) {
                     width={225}
                     height={30}
                     src="/images/optimism-logo.svg"
+                    alt="/images/optimism-logo.svg"
                 />
             </div>
             <div className="flex-[0_1_66.8%] border-2 border-[#232A23] p-20">

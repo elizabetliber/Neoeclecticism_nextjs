@@ -8,7 +8,7 @@ function Collab() {
                 <div className="flex justify-end">
                     <div className="w-full max-w-[672px]">
                         <Link href="/" className="text-text-desc text-base font-['Roboto_Mono']"><span
-                            className="text-[#19CD99]">&lt; main </span>_ neoeclecticism</Link>
+                            className="text-[#19CD99]">{'< main'} </span>_ neoeclecticism</Link>
                     </div>
                 </div>
                 <div className="w-full mt-[69px]">
@@ -17,6 +17,7 @@ function Collab() {
                             width={101}
                             height={92}
                             src="/images/Vector.png"
+                            alt="/images/Vector.png"
                             className="mr-4 h-[92px]"
                         />
                         <h1 className="text-5xl w-[672px] leading-[56px] text-text-title font-['Patua_One']">
