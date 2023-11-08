@@ -9,7 +9,7 @@ function Author() {
                 <p className="font-['Patua_One'] text-[36px] text-text-title mt-3">Vladimir Nizovtsev</p>
                 <p className="font-['Roboto_Mono'] text-text-desc text-base leading-[32px] tracking-[0.24px]">
                     Notahash is embarking on our journey with our first collection, starting with a collaboration with a
-                    talented artist whose works will be sought after by collectors—it's only a matter of time. Why do we
+                    talented artist whose works will be sought after by {"collectors—it's"} only a matter of time. Why do we
                     think so? You will find out a little later. Look for clues around
                 </p>
             </div>

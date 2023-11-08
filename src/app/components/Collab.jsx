@@ -51,7 +51,7 @@ function Collab() {
                             opening the boundaries beyond which an inexhaustible source of inspiration awaits.
                         </p>
                         <p>
-                            Pre-sale price for tokens of the <span className="text-[#19CD99]">'Source'</span> collection
+                            {'Pre - sale'} price for tokens of the <span className="text-[#19CD99]">{"'Source'"}</span> collection
                         </p>
                     </div>
                 </div>

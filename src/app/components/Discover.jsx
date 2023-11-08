@@ -14,12 +14,12 @@ function Discover() {
                         <div
                             className="mt-6 flex flex-col w-[672px] font-['Roboto_Mono'] gap-y-8 text-text-desc text-base leading-[32px] tracking-[0.24px]">
                             <p>
-                                We've created the Neoeclecticism collection to gather our early fans who will join us on
+                                {"We've"} created the Neoeclecticism collection to gather our early fans who will join us on
                                 our journey. Purchasing a Neoeclecticism collectible grants you a pre-sale price for our
-                                new 'Source' collection.
+                                new {"'Source'"} collection.
                             </p>
                             <p>
-                                By supporting us, you help launch the 'Source' collection, where the first 20 owners
+                                By supporting us, you help launch the {"'Source'"} collection, where the first 20 owners
                                 will possess a track based on the hash value of their wallet.
                             </p>
                         </div>
@@ -34,8 +34,8 @@ function Discover() {
                     height={480}
                 />
                 <p className="text-center font-['Roboto_Mono'] text-text-desc text-base leading-[32px] tracking-[0.24px] mt-5">
-                    Collectible Digital Item from the 'Source' Collection.<br/>
-                    Notahash - Vitalik Buterin's Wallet.
+                    Collectible Digital Item from the {"'Source'"} Collection.<br/>
+                    Notahash - Vitalik {"Buterin's"} Wallet.
                 </p>
             </div>
         </div>
